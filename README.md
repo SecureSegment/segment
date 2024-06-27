@@ -15,7 +15,7 @@ This is a simple UI responsive appealing user interface.
 
 ## Screenshots
 
-![Screenshot 1](path/to/image1.png)
+![Screenshot 1](assets/images/Ui.JPG)
 _Desktop UI._
 
 ![Screenshot 2](path/to/image2.png)
