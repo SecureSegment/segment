@@ -1,5 +1,5 @@
 name: segment
-description: "Fluter segment User interface"
+description: "Flutter segment User interface"
 
 publish_to: "none"
 
@@ -13,13 +13,17 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^1.0.6
+  path_provider: ^2.1.1
+  process_run: ^1.0.0+1
+  permission_handler: ^11.3.1
+  shared_preferences: ^2.1.3
+  provider: ^6.1.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
 
   flutter_lints: ^4.0.0
-  provider: ^6.1.2
   http: ^1.2.1
   fl_chart: ^0.68.0
   flutter_svg: ^2.0.10+1
@@ -29,6 +33,9 @@ flutter:
   assets:
     - assets/icons/
     - assets/images/
+    - assets/Windows/xray.exe
+    - assets/Windows/config.json
+    - assets/android/config.json
 
 flutter_icons:
   android: true
